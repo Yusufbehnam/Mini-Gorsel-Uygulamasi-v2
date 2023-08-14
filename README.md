@@ -1,0 +1,1 @@
+# Mini-Gorsel-Uygulamasi-v2
